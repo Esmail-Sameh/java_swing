@@ -23,7 +23,6 @@ public class Lable {
         lbl.setFont(font);
         lbl.setForeground(Color.GREEN);
         
-        
     }
     
             

@@ -11,7 +11,6 @@ public class Java_swing {
     public static void main(String[] args) {
         Lable lbl = new Lable();
                 
-        
        
     }
 }
